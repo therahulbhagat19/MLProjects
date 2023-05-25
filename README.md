@@ -1,8 +1,10 @@
-# MLProjects
+# ML/DL Projects
 
 Document Question Answering using RoBERTa-base-squad2 model from HuggingFace.
 
 Sentiment Analysis of Stock Market tweets
+
+MNIST Convolutional Neural Network model
 
 A Breast-Cancer Prediction Model using Random Forest Classifier.
 
