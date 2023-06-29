@@ -1,5 +1,7 @@
 # ML/DL Projects
 
+Engllish Sentiment Analyser for Stock News using Custom build Dataset.
+
 Document Question Answering using RoBERTa-base-squad2 model from HuggingFace.
 
 Sentiment Analysis of Stock Market tweets
