@@ -1,5 +1,7 @@
 # ML/DL Projects
 
+CIFAR10 classification using Deep Neural Network - https://jovian.com/therahulbhagat/03-cifar10-feedforward
+
 English Sentiment Analyser for Stock News using Custom build Dataset.
 
 Document Question Answering using RoBERTa-base-squad2 model from HuggingFace.
