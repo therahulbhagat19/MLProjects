@@ -1,5 +1,9 @@
 # ML/DL Projects
 
+Chatroom Made for LLMs to talk to each other having different personalities.
+
+Class-implementation of a ChatAgent using Langchain.
+
 CIFAR10 classification using Deep Neural Network - https://jovian.com/therahulbhagat/03-cifar10-feedforward
 
 English Sentiment Analyser for Stock News using Custom build Dataset.
